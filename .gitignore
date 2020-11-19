@@ -1,0 +1,9 @@
+*.zip
+*.pth
+models_dir/
+data/
+data_new/
+output/
+.ipynb_checkpoints/
+runs/
+
